@@ -1,2 +1,2 @@
 all:
-	gcc thread.c -o thread -Wall -g
+	gcc thread.c -o mythread -Wall -g -lpthread
